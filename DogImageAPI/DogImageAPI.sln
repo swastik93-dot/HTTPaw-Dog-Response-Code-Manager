@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DogImageAPI", "DogImageAPI.csproj", "{B1DFB3ED-72AC-43F7-BA9A-BE25F27A7478}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1DFB3ED-72AC-43F7-BA9A-BE25F27A7478}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1DFB3ED-72AC-43F7-BA9A-BE25F27A7478}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1DFB3ED-72AC-43F7-BA9A-BE25F27A7478}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1DFB3ED-72AC-43F7-BA9A-BE25F27A7478}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C933E31-24A0-481F-93EC-2050CF603FEE}
+	EndGlobalSection
+EndGlobal

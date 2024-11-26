@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dog Image Search</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="search.css">
+  
+</head>
+
+<body>
+
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg navbar-dark">
+        <div class="container-fluid">
+            <h5><a class="navbar-brand" href="#">DogImg</a></h5>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                      <h5> <a class="nav-link" href="search.html">Search Images</a></h5> 
+                    </li>
+                    <li class="nav-item">
+                       <h5> <a class="nav-link" href="lists.html">My Lists</a></h5>
+                    </li>
+                    <li class="nav-item">
+                     <h5>   <a class="nav-link" href="index.html">Logout</a></h5>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Main Container -->
+    <div class="container mt-5">
+
+      
+        <div class="card p-4">
+            <div class="card-body">
+                <h5 class="card-title">Search Dog Images by Response Code</h5>
+                <form id="searchForm">
+                    <div class="mb-3">
+                        <label for="responseCode" class="form-label">Response Code</label>
+                        <input type="text" class="form-control" id="responseCode" placeholder="e.g., 2xx, 200, 20x">
+                    </div>
+                    <button type="submit" class="btn btn-primary w-100">Search</button>
+                </form>
+            </div>
+        </div>
+
+       
+        <div class="mt-5">
+            <h5 class="text-center">Dog Images</h5>
+            <div id="dogImages" class="row"></div>
+        </div>
+
+      
+        <div class="mt-5">
+            <h5 class="text-center">Save Filtered List</h5>
+            <div class="card p-4">
+                <form id="saveListForm">
+                    <div class="mb-3">
+                        <label for="listName" class="form-label">List Name</label>
+                        <input type="text" class="form-control" id="listName" placeholder="Enter a name for your list">
+                    </div>
+                    <button type="submit" class="btn btn-success w-100">Save List</button>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="search.js"></script>
+</body>
+
+</html>

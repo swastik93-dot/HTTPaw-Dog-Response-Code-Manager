@@ -1,0 +1,54 @@
+
+
+.container {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100%;
+    overflow: hidden; /* Prevents extra scroll */
+}
+
+body {
+    background-image: url('https://t3.ftcdn.net/jpg/04/69/07/32/360_F_469073270_H9pWB0wYhfKElKXD3k9R60gsYeH9xSQO.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+
+
+.card {
+    max-width: 600px;
+    width: 100%;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+    background: rgba(255, 255, 255, 0.9);
+    padding: 2.5rem;
+    z-index: 1;
+    position: relative;
+}
+
+.btn-primary {
+    width: 100%;
+}
+
+/* SweetAlert fix */
+.swal2-container {
+    z-index: 9999;
+}

@@ -1,0 +1,30 @@
+body {
+    background-color: #f8f9fa;
+}
+
+/* Custom styling for navbar */
+.navbar {
+    background-color: #343a40;
+}
+
+.navbar-brand,
+.nav-link {
+    color: #ffffff !important;
+}
+
+.nav-link:hover {
+    color: #f0ad4e !important;
+}
+
+.card {
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h5 {
+    color: #343a40;
+}
+
+.loading-spinner {
+    margin-top: 20px;
+}

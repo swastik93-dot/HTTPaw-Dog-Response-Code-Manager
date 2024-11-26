@@ -1,0 +1,300 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\DogDataFetch\\DogImageAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DFB3ED-72AC-43F7-BA9A-BE25F27A7478}|DogImageAPI.csproj|c:\\users\\hp\\desktop\\dogdatafetch\\dogimageapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B1DFB3ED-72AC-43F7-BA9A-BE25F27A7478}|DogImageAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DFB3ED-72AC-43F7-BA9A-BE25F27A7478}|DogImageAPI.csproj|c:\\users\\hp\\desktop\\dogdatafetch\\dogimageapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DFB3ED-72AC-43F7-BA9A-BE25F27A7478}|DogImageAPI.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DFB3ED-72AC-43F7-BA9A-BE25F27A7478}|DogImageAPI.csproj|c:\\users\\hp\\desktop\\dogdatafetch\\dogimageapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DFB3ED-72AC-43F7-BA9A-BE25F27A7478}|DogImageAPI.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DFB3ED-72AC-43F7-BA9A-BE25F27A7478}|DogImageAPI.csproj|c:\\users\\hp\\desktop\\dogdatafetch\\dogimageapi\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DFB3ED-72AC-43F7-BA9A-BE25F27A7478}|DogImageAPI.csproj|solutionrelative:services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DFB3ED-72AC-43F7-BA9A-BE25F27A7478}|DogImageAPI.csproj|c:\\users\\hp\\desktop\\dogdatafetch\\dogimageapi\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DFB3ED-72AC-43F7-BA9A-BE25F27A7478}|DogImageAPI.csproj|solutionrelative:datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DFB3ED-72AC-43F7-BA9A-BE25F27A7478}|DogImageAPI.csproj|c:\\users\\hp\\desktop\\dogdatafetch\\dogimageapi\\services\\listservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DFB3ED-72AC-43F7-BA9A-BE25F27A7478}|DogImageAPI.csproj|solutionrelative:services\\listservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DFB3ED-72AC-43F7-BA9A-BE25F27A7478}|DogImageAPI.csproj|c:\\users\\hp\\desktop\\dogdatafetch\\dogimageapi\\controllers\\listcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DFB3ED-72AC-43F7-BA9A-BE25F27A7478}|DogImageAPI.csproj|solutionrelative:controllers\\listcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DFB3ED-72AC-43F7-BA9A-BE25F27A7478}|DogImageAPI.csproj|c:\\users\\hp\\desktop\\dogdatafetch\\dogimageapi\\models\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DFB3ED-72AC-43F7-BA9A-BE25F27A7478}|DogImageAPI.csproj|solutionrelative:models\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DFB3ED-72AC-43F7-BA9A-BE25F27A7478}|DogImageAPI.csproj|c:\\users\\hp\\desktop\\dogdatafetch\\dogimageapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DFB3ED-72AC-43F7-BA9A-BE25F27A7478}|DogImageAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DFB3ED-72AC-43F7-BA9A-BE25F27A7478}|DogImageAPI.csproj|c:\\users\\hp\\desktop\\dogdatafetch\\dogimageapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DFB3ED-72AC-43F7-BA9A-BE25F27A7478}|DogImageAPI.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DFB3ED-72AC-43F7-BA9A-BE25F27A7478}|DogImageAPI.csproj|c:\\users\\hp\\desktop\\dogdatafetch\\dogimageapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DFB3ED-72AC-43F7-BA9A-BE25F27A7478}|DogImageAPI.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DFB3ED-72AC-43F7-BA9A-BE25F27A7478}|DogImageAPI.csproj|c:\\users\\hp\\desktop\\dogdatafetch\\dogimageapi\\migrations\\20241022135451_adduserdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DFB3ED-72AC-43F7-BA9A-BE25F27A7478}|DogImageAPI.csproj|solutionrelative:migrations\\20241022135451_adduserdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DFB3ED-72AC-43F7-BA9A-BE25F27A7478}|DogImageAPI.csproj|c:\\users\\hp\\desktop\\dogdatafetch\\dogimageapi\\migrations\\20241022120311_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DFB3ED-72AC-43F7-BA9A-BE25F27A7478}|DogImageAPI.csproj|solutionrelative:migrations\\20241022120311_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DFB3ED-72AC-43F7-BA9A-BE25F27A7478}|DogImageAPI.csproj|c:\\users\\hp\\desktop\\dogdatafetch\\dogimageapi\\migrations\\20241024063953_mig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DFB3ED-72AC-43F7-BA9A-BE25F27A7478}|DogImageAPI.csproj|solutionrelative:migrations\\20241024063953_mig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DFB3ED-72AC-43F7-BA9A-BE25F27A7478}|DogImageAPI.csproj|c:\\users\\hp\\desktop\\dogdatafetch\\dogimageapi\\migrations\\20241024063923_migrationname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DFB3ED-72AC-43F7-BA9A-BE25F27A7478}|DogImageAPI.csproj|solutionrelative:migrations\\20241024063923_migrationname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 320,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\DogDataFetch\\DogImageAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\DogDataFetch\\DogImageAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T11:59:16.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\DogDataFetch\\DogImageAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\DogDataFetch\\DogImageAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-22T11:56:26.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ListController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\DogDataFetch\\DogImageAPI\\Controllers\\ListController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ListController.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\DogDataFetch\\DogImageAPI\\Controllers\\ListController.cs",
+              "RelativeToolTip": "Controllers\\ListController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwCMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T12:00:42.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ListService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\DogDataFetch\\DogImageAPI\\Services\\ListService.cs",
+              "RelativeDocumentMoniker": "Services\\ListService.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\DogDataFetch\\DogImageAPI\\Services\\ListService.cs",
+              "RelativeToolTip": "Services\\ListService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T11:59:58.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\DogDataFetch\\DogImageAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\DogDataFetch\\DogImageAPI\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T11:57:05.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\DogDataFetch\\DogImageAPI\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\DogDataFetch\\DogImageAPI\\Services\\AuthService.cs",
+              "RelativeToolTip": "Services\\AuthService.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowCIAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T11:58:41.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\DogDataFetch\\DogImageAPI\\DataContext.cs",
+              "RelativeDocumentMoniker": "DataContext.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\DogDataFetch\\DogImageAPI\\DataContext.cs",
+              "RelativeToolTip": "DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T11:57:50.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "List.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\DogDataFetch\\DogImageAPI\\Models\\List.cs",
+              "RelativeDocumentMoniker": "Models\\List.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\DogDataFetch\\DogImageAPI\\Models\\List.cs",
+              "RelativeToolTip": "Models\\List.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T11:57:23.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\DogDataFetch\\DogImageAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\DogDataFetch\\DogImageAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T11:56:06.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\DogDataFetch\\DogImageAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\DogDataFetch\\DogImageAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T05:47:57.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\DogDataFetch\\DogImageAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\DogDataFetch\\DogImageAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA0wCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T13:44:38.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20241024063953_Mig.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\DogDataFetch\\DogImageAPI\\Migrations\\20241024063953_Mig.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241024063953_Mig.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\DogDataFetch\\DogImageAPI\\Migrations\\20241024063953_Mig.cs",
+              "RelativeToolTip": "Migrations\\20241024063953_Mig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T06:39:53.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20241024063923_MigrationName.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\DogDataFetch\\DogImageAPI\\Migrations\\20241024063923_MigrationName.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241024063923_MigrationName.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\DogDataFetch\\DogImageAPI\\Migrations\\20241024063923_MigrationName.cs",
+              "RelativeToolTip": "Migrations\\20241024063923_MigrationName.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T06:39:23.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20241022135451_AddUserDetails.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\DogDataFetch\\DogImageAPI\\Migrations\\20241022135451_AddUserDetails.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241022135451_AddUserDetails.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\DogDataFetch\\DogImageAPI\\Migrations\\20241022135451_AddUserDetails.cs",
+              "RelativeToolTip": "Migrations\\20241022135451_AddUserDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T13:54:51.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20241022120311_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\DogDataFetch\\DogImageAPI\\Migrations\\20241022120311_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241022120311_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\DogDataFetch\\DogImageAPI\\Migrations\\20241022120311_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20241022120311_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T12:03:11.459Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 80,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
